@@ -1,0 +1,24 @@
+
+footer a:hover {
+  color: #d4af37 !important;
+}
+
+footer {
+  background-color: #2c1b12; 
+}
+.texto-esfumado {
+        /* Imagem do fundo do texto */
+        background-image: url('../img/ceu.jpg');
+        background-size: cover;
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        -webkit-text-fill-color: transparent;
+
+        /* Esfumado e deslocamento da cor */
+        filter: drop-shadow(10px 20px 20px rgba(99, 47, 7, 0.4));
+
+        line-height: 1.2;
+        font-weight: 750;
+        padding: 40px;
+    }
