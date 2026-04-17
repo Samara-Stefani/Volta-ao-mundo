@@ -27,17 +27,14 @@ O site foi criado para prazer uma experiência visual agradável, permitindo que
 - Festividades
 
 ### 🏜️ Pontos Turísticos
-- Pirâmides de Gizé
-- Esfinge de Gizé
-- Rio Nilo
-- Templos históricos
+- Aswan
+- Templo de Karnak.
+- Sharm El-Sheikh
 
 ### 📊 Informações Gerais
-- Localização geográfica
 - Capital
 - Idioma
 - Moeda
-- Clima
 
 ---
 
